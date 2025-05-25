@@ -7,7 +7,7 @@
 
 ## 📘 Overview
 
-This notebook explores foundational data analysis and machine learning techniques using Python. It was developed as part of Project 1 for the APS1070 course at the Munk School of Global Affairs and Public Policy.
+This notebook explores foundational data analysis and machine learning techniques using Python. It was developed as part of Project 1 for the APS1070 course.
 
 The objective of this project is to practice:
 - Vectorized coding
