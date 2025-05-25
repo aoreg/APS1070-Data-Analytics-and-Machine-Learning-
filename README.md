@@ -1,5 +1,3 @@
-# APS1070-Project1-2024Fall
-
 # APS1070 Project 1 – Fall 2024
 
 **Course:** APS1070  
